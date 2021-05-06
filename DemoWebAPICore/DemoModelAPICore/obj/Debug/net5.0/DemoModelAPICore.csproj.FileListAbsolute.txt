@@ -1,0 +1,17 @@
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\bin\Debug\net5.0\DemoModelAPICore.deps.json
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\bin\Debug\net5.0\DemoModelAPICore.dll
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\bin\Debug\net5.0\ref\DemoModelAPICore.dll
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\bin\Debug\net5.0\DemoModelAPICore.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\bin\Debug\net5.0\VitalTools.dll
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\bin\Debug\net5.0\VitalTools.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\bin\Debug\net5.0\Newtonsoft.Json.xml
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\obj\Debug\net5.0\DemoModelAPICore.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\obj\Debug\net5.0\DemoModelAPICore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\obj\Debug\net5.0\DemoModelAPICore.AssemblyInfoInputs.cache
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\obj\Debug\net5.0\DemoModelAPICore.AssemblyInfo.cs
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\obj\Debug\net5.0\DemoModelAPICore.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\obj\Debug\net5.0\DemoModelAPICore.csproj.CopyComplete
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\obj\Debug\net5.0\DemoModelAPICore.dll
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\obj\Debug\net5.0\ref\DemoModelAPICore.dll
+C:\Users\renau\OneDrive\Projets\Applications\Demos\DemoWebAPICore\DemoModelAPICore\obj\Debug\net5.0\DemoModelAPICore.pdb

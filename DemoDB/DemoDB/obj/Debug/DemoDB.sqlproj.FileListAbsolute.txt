@@ -27,3 +27,12 @@ C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_Project\DemoDB\DemoDB\obj
 C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_Project\DemoDB\DemoDB\obj\Debug\predeploy.sql
 C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_Project\DemoDB\DemoDB\obj\Debug\DemoDB.dll
 C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_Project\DemoDB\DemoDB\obj\Debug\DemoDB.pdb
+C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoDB\DemoDB\bin\Debug\DemoDB.dacpac
+C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoDB\DemoDB\bin\Debug\DemoDB.dll
+C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoDB\DemoDB\bin\Debug\DemoDB.pdb
+C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoDB\DemoDB\obj\Debug\Model.xml
+C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoDB\DemoDB\obj\Debug\refactor.xml
+C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoDB\DemoDB\obj\Debug\postdeploy.sql
+C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoDB\DemoDB\obj\Debug\predeploy.sql
+C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoDB\DemoDB\obj\Debug\DemoDB.dll
+C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoDB\DemoDB\obj\Debug\DemoDB.pdb

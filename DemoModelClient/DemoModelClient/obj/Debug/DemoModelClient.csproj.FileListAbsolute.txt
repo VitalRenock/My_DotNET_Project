@@ -77,6 +77,7 @@ C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoModelClient\DemoModelClient\
 C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoModelClient\DemoModelClient\bin\Debug\DemoModelGlobal.pdb
 C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoModelClient\DemoModelClient\bin\Debug\DemoModelGlobal.dll.config
 C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoModelClient\DemoModelClient\bin\Debug\System.Web.Http.xml
+C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoModelClient\DemoModelClient\bin\Debug\Newtonsoft.Json.xml
 C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoModelClient\DemoModelClient\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoModelClient\DemoModelClient\bin\Debug\fr\System.Web.Http.resources.dll
 C:\Users\renau\Projets\DotNET\My_DotNET_Project\DemoModelClient\DemoModelClient\bin\Debug\fr\System.Net.Http.Formatting.resources.dll

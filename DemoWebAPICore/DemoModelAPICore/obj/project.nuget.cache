@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "TeopcbJ4mln3a0Qm7DY6OyogDzbMqBKr5QJC1bewX08eayfQ62PCxuAnATuOfPoP5CGn9JztR8JfqlKf1u6KNg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\Demos\\DemoWebAPICore\\DemoModelAPICore\\DemoModelAPICore.csproj",
+  "dgSpecHash": "2ERypAj6/J+ha/cnhsjz0MoM0w9TpvEUR/YOWSAFARmiIUGkrnEM18Q9wifQ6LO3PvD+TJx1FIELnyJ1F+Ouvg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\renau\\Projets\\DotNET\\My_DotNET_Project\\DemoWebAPICore\\DemoModelAPICore\\DemoModelAPICore.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Projet 'C:\\Users\\renau\\Projets\\DotNET\\ToolBox\\VitalTools\\VitalTools\\VitalTools.csproj' introuvable. Vérifiez que la référence de projet est valide et que le fichier projet existe.",
+      "libraryId": "C:\\Users\\renau\\Projets\\DotNET\\ToolBox\\VitalTools\\VitalTools\\VitalTools.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
